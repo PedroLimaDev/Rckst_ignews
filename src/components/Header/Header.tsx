@@ -2,8 +2,6 @@ import SignInButton from "../SignInButton";
 import styles from "./Header.module.scss";
 
 const Header = () => {
-	console.log("teste");
-
 	return (
 		<header className={styles.headerContainer}>
 			<div className={styles.headerContent}>
